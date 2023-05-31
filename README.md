@@ -13,7 +13,7 @@
 > ** Работа с SQL БД 
 
 ## Описание данных
-В этом проекте использованны данные о вакансиях с сайта HeadHunter[ссылка]( http://sql.skillfactory.ru:3000/question#eyJkYXRhc2V0X3F1ZXJ5Ijp7ImRhdGFiYXNlIjpudWxsLCJuYXRpdmUiOnsicXVlcnkiOiIiLCJ0ZW1wbGF0ZS10YWdzIjp7fX0sInR5cGUiOiJuYXRpdmUifSwiZGlzcGxheSI6InRhYmxlIiwicGFyYW1ldGVycyI6W10sInZpc3VhbGl6YXRpb25fc2V0dGluZ3MiOnt9fQ==)
+В этом проекте использованны данные о вакансиях с сайта HeadHunter[ссылка на Metabase]( http://sql.skillfactory.ru:3000/question#eyJkYXRhc2V0X3F1ZXJ5Ijp7ImRhdGFiYXNlIjpudWxsLCJuYXRpdmUiOnsicXVlcnkiOiIiLCJ0ZW1wbGF0ZS10YWdzIjp7fX0sInR5cGUiOiJuYXRpdmUifSwiZGlzcGxheSI6InRhYmxlIiwicGFyYW1ldGVycyI6W10sInZpc3VhbGl6YXRpb25fc2V0dGluZ3MiOnt9fQ==)
 
 ## Используемые зависимости
 * Python (3.11.1):
